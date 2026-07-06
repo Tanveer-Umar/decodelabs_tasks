@@ -254,19 +254,7 @@ Display Data          Compare Threshold
 
 ---
 
-# 📸 Project Demonstration
 
-```
-📷 Add project images here
-
-/images
-    setup.jpg
-    circuit.png
-    serial-monitor.png
-    irrigation-demo.jpg
-```
-
----
 
 # 🏆 Learning Outcomes
 
