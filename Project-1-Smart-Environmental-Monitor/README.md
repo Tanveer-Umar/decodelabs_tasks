@@ -122,21 +122,6 @@ Project-1-Smart-Environmental-Monitor
 
 ---
 
-# 📸 Demonstration
-
-Add your project images here.
-
-```
-Images/
-│
-├── setup.jpg
-├── wiring.png
-├── serial-monitor.png
-└── lcd-output.jpg
-```
-
----
-
 # 🚀 Future Improvements
 
 - OLED Display
